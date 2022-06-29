@@ -72,3 +72,32 @@ compress_html:
 
 sass:
   style:               compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-avatar
+
+paginate:      10
+paginate_path: '/blog/:num/'
+
+author:
+  name:  Jeon jekyeong
+  email: jjk2200@naver.com
+  picture: /assets/img/me.jpg
+  social:
+    github: towerbreaker2200
+    email: jjk2200@naver.com
+  about: |
+    Must work hard
+
+menu:
+  - title: Blog
+    url:   /blog/
+
+disqus: https://devlog-12.disqus.com/
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
