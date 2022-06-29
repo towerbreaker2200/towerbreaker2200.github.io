@@ -94,7 +94,7 @@ menu:
   - title: Blog
     url:   /blog/
 
-disqus: https://devlog-12.disqus.com/
+disqus: devlog-12
 
 defaults:
   - scope:
