@@ -93,6 +93,8 @@ author:
 menu:
   - title: Blog
     url:   /blog/
+  - title: Jekyll
+    url:   /jekyll/
 
 disqus: devlog-12
 
@@ -101,3 +103,11 @@ defaults:
       type: posts
     values:
       comments: true
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true

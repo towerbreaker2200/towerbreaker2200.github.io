@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2022-07-02 18:30:00 +0900
-categories: jekyll update
+categories: update
 comments: true
 ---
 블로그 초기 설정을 어느정도 마치고 처음으로 마크다운 양식에 맞춰서 글을 써본다.
