@@ -2,7 +2,7 @@
 layout: post
 title:  "use jekyll"
 date:   2022-07-05 21:00:00 +0900
-categories: jekyll update
+categories: jekyll learn update
 comments: true
 ---
 
@@ -34,7 +34,7 @@ Setext-style은 === 이나 ---를 원하는 문장 바로 아래 작성하여 h1
 >
 >>>세번도 된다.
 >
->`<blockquote>` 태그로 묶이게 된다.
+>`<blockquote>` 태그로 묶인다.
 
 ## 3. 강조 효과
 
@@ -61,7 +61,7 @@ Setext-style은 === 이나 ---를 원하는 문장 바로 아래 작성하여 h1
 1. 여기서
   - 이렇게 넣을 수 있다.
   - 하지만
-    + 이건 안된다(템플릿 특성인듯 하다)
+    + 3번째 부터는 안된다(템플릿 특성인듯 하다)
   
 
 ## 5. 링크
