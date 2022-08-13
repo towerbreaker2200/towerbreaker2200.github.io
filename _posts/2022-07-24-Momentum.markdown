@@ -6,6 +6,8 @@ categories: javascript vanilla
 comments: true
 ---
 
+이 포스트는 nomadcoders.co 의 "바닐라 JS로 크롬 앱 만들기" 강의를 모두 수강하고 작성한 글입니다.
+
 ## 1. 주소
 
 [Momentum](https://codesandbox.io/s/momentum-0enfs5)
